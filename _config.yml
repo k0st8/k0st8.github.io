@@ -12,3 +12,4 @@ github_username:  k0st8
 
 # Build settings
 markdown: kramdown
+permalink: /:categories/:title/

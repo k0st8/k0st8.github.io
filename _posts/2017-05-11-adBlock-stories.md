@@ -2,7 +2,7 @@
 layout: post
 title:  "AdBlock stories!"
 date:   2017-05-11 1:46:30
-categories: jekyll update
+categories: Tech
 ---
 # AdBlock stories
 

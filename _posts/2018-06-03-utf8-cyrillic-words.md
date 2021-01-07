@@ -2,7 +2,7 @@
 layout: post
 title:  "Utf8 Cyrillic words json_encode"
 date:   2018-06-03 1:46:30
-categories: jekyll update
+categories: Tech
 ---
 
 # Posible solutions: utf8 cyrillic words json_encode

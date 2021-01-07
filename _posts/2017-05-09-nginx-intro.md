@@ -2,7 +2,7 @@
 layout: post
 title:  "Nginx intro"
 date:   2017-05-09 1:46:30
-categories: jekyll update
+categories: Tech
 ---
 
 # Nginx intro

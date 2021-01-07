@@ -2,7 +2,7 @@
 layout: post
 title:  "Some useful info"
 date:   2017-05-08 1:46:30
-categories: jekyll update
+categories: Tech
 ---
 # Some useful info
 

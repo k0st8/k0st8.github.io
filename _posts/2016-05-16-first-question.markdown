@@ -2,7 +2,7 @@
 layout: post
 title:  "First Question!"
 date:   2016-05-16 1:46:30
-categories: jekyll update
+categories: Tech
 ---
 # Thoughts (or power of the thoughts)
 
