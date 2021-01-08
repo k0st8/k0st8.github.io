@@ -7,10 +7,14 @@ categories: thm
 
 
 # [COLDDBOX](https://tryhackme.com/room/colddboxeasy) - Starting the box can take some time
+
+<hr>
+
+
+![ColddBox](/assets/thm/2021-1-7 ColddBox One more machine.png)
+
 ---
 <br>
-
-
 
 ### NMAP
 
@@ -74,7 +78,10 @@ http://10.10.34.213/xmlrpc.php (Status: 200)
 
 
 ### USERS
-
+<hr>
+![ColddBox|Users](/assets/thm/2021-1-7 Hidden Place.png)
+<hr>
+<br>
 One of the pages from `Gobuster` helped find them.
 {% highlight bash startinline=true %}
 C0ldd
