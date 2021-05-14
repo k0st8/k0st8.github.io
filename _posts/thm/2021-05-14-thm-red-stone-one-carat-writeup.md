@@ -48,7 +48,8 @@ After some research found the way to get `irb` on the machine
 ![RedStone](/assets/thm/redstonecarat/irb.png)
 
 ### User Flag
-It's was easy one, but before created functio to read file.
+It's was easy one, but before created function to read file.
+
 {% highlight ruby %}
 def r_f file
  ### Read file the easy way
@@ -59,7 +60,8 @@ def r_f file
  return nil
 end
 {% endhighlight %}
-It's better way to print files, in this case, then on the picture. 
+It's better way to print files, in this case, then on the picture.
+
 ![RedStone](/assets/thm/redstonecarat/user_flag.png)
 
 ### Priv Esc 
@@ -99,7 +101,8 @@ Now let's see what is in `dummy.sh`
 
 ### Finding Roots
 
-The hard staff is starts, connecting to the `port 31547` has not gave me much.
+The hard stuff is starting here, connecting to the `port 31547` has not gave me much.
+
 So I’ve tried coping `dash` to privilege escalation... nothing... user `noraj` was coping the file adding sticky bit wouldn’t help.
 
 ![RedStone](/assets/thm/redstonecarat/trying_dash.png)
